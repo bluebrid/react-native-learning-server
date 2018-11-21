@@ -1,0 +1,7 @@
+[
+    {
+        "userName": "admin",
+        "password": "admin",
+        "isMaster": true
+    }
+]
